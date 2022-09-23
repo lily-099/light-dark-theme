@@ -10,7 +10,7 @@ class ThemesColors {
 
 static const Color lightOnPrimary = Color(0xff00455b);
 
-static const Color lightPrimary = Color(0xff75deff);
+static const Color lightPrimary = Color(0xffe90f0f);
 
 static const Color lightPrimaryContainer = Color(0xff007093);
 
@@ -111,4 +111,8 @@ static const Color darkInverseSurface = Color(0xffa3a3a3);
 static const Color darkInversePrimary = Color(0xff01506a);
 
 static const Color darkSurfaceTint = Color(0xff515e5b);
+
+static const Color darkOnSurfaceVariant = Color(0xffcacaca);
+
+static const Color darkOnInverseSurface = Color(0xff434343);
 }
