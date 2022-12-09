@@ -1,4 +1,4 @@
-# themedemo
+# themes
 
 A new Flutter project.
 
