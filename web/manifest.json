@@ -1,6 +1,6 @@
 {
-    "name": "themes",
-    "short_name": "themes",
+    "name": "themedemo",
+    "short_name": "themedemo",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",
